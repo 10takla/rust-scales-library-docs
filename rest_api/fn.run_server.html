@@ -9,15 +9,15 @@
 <p><code>POST /products/set</code></p>
 <ul>
 <li><code>path</code>: Путь к JSON файлу (String)</li>
-<li><code>remove_product_id</code>: Флаг для выполнения autoincrement запроса (bool)</li>
-<li><code>clear_all</code>: Флаг для удаления всех записей по id, указанным в JSON (bool)</li>
+<li><code>remove_product_id</code>: Флаг для выполнения autoincrement запроса (<code>bool</code>)</li>
+<li><code>clear_all</code>: Флаг для удаления всех записей по id, указанным в JSON (<code>bool</code>)</li>
 </ul>
 </li>
 <li>
 <p><code>GET /products/{product_id}/draw-label</code></p>
 <ul>
-<li><code>path</code>: Опциональный путь к файлу для сохранения этикетки (Option<String>). По умолчанию сохраняется в <code>&lt;server&gt;/output</code></li>
-<li><code>label_template_id</code>: Опциональный идентификатор шаблона этикетки (Option<i32>). При отсутствии используется <code>product.label_template</code></li>
+<li><code>path</code>: Опциональный путь к файлу для сохранения этикетки (<code>Option&lt;String&gt;</code>). По умолчанию сохраняется в <code>&lt;server&gt;/output</code></li>
+<li><code>label_template_id</code>: Опциональный идентификатор шаблона этикетки (<code>Option&lt;i32&gt;</code>). При отсутствии используется <code>product.label_template</code></li>
 </ul>
 </li>
 </ul>
@@ -26,13 +26,13 @@
 <li>
 <p><code>GET /test/calc-sin</code></p>
 <ul>
-<li><code>count</code>: Количество вычислений синуса (i32)</li>
+<li><code>count</code>: Количество вычислений синуса (<code>i32</code>)</li>
 </ul>
 </li>
 <li>
 <p><code>GET /test/calc-sin-thread</code></p>
 <ul>
-<li><code>count</code>: Количество вычислений синуса в многопоточном режиме (i32)</li>
+<li><code>count</code>: Количество вычислений синуса в многопоточном режиме (<code>i32</code>)</li>
 </ul>
 </li>
 </ul>

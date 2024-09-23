@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["draw_label","set_products","validate_product_query"],"mod":["utils"],"struct":["LabelQuery","ProductQuery"]};
+window.SIDEBAR_ITEMS = {"fn":["draw_label","set_products"],"struct":["LabelQuery"]};

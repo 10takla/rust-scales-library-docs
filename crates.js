@@ -1,1 +1,1 @@
-window.ALL_CRATES = ["rest_api"];
+window.ALL_CRATES = ["rest_api","rust_jni"];
