@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["main","run_server"],"mod":["endpoints","test_app"],"struct":["Config"],"type":["DbPool"]};

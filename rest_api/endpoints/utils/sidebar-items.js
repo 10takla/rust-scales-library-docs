@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["sql_to_string","without_placeholders"]};

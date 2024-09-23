@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["calc_sin","calc_sin_thread","test_app_router"],"struct":["SinQuery"]};
