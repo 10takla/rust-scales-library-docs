@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["Java_RustJni_drawAllLabels","Java_RustJni_drawLabel","Java_RustJni_getSql","Java_RustJni_saveJsonFile"]};
+window.SIDEBAR_ITEMS = {"fn":["Java_RustJni_calcSin","Java_RustJni_drawAllLabels","Java_RustJni_drawLabel","Java_RustJni_getSql","Java_RustJni_saveJsonFile","Java_ru_mertech_RustJni_calcSin","Java_ru_mertech_RustJni_drawAllLabels","Java_ru_mertech_RustJni_drawLabel","Java_ru_mertech_RustJni_getSql","Java_ru_mertech_RustJni_saveJsonFile"]};
