@@ -3,18 +3,16 @@
 <li>Значения из файла <code>.env</code></li>
 <li>Аргументы командной строки</li>
 </ol>
-<h3 id="Эндпоинты"><a class="doc-anchor" href="#Эндпоинты">§</a>Эндпоинты</h3><h4 id="Операции-с-продуктами"><a class="doc-anchor" href="#Операции-с-продуктами">§</a>Операции с продуктами</h4>
+<h3 id="Эндпоинты"><a class="doc-anchor" href="#Эндпоинты">§</a>Эндпоинты</h3><h4 id="Операции-с-продуктами"><a class="doc-anchor" href="#Операции-с-продуктами">§</a>Операции с продуктами:</h4>
 <ul>
-<li>
-<p><code>GET /products/set</code></p>
+<li><h5 id="get-productsset"><a class="doc-anchor" href="#get-productsset">§</a><code>GET /products/set</code></h5>
 <ul>
 <li><code>path</code>: Путь к JSON файлу (<code>String</code>)</li>
 <li><code>remove_product_id</code>: Флаг для выполнения autoincrement запроса (<code>bool</code>)</li>
-<li><code>clear_all</code>: Флаг для удаления всех записей по id, указанным в JSON (<code>bool</code>)</li>
+<li><code>clear_all</code>: Флаг для удаления всех записей по <code>id</code>, указанным в JSON (<code>bool</code>)</li>
 </ul>
 </li>
-<li>
-<p><code>GET /products/{product_id}/draw-label</code></p>
+<li><h5 id="get-productsproduct_iddraw-label"><a class="doc-anchor" href="#get-productsproduct_iddraw-label">§</a><code>GET /products/{product_id}/draw-label</code></h5>
 <ul>
 <li><code>path</code>: Опциональный путь к файлу для сохранения этикетки (<code>Option&lt;String&gt;</code>). По умолчанию сохраняется в <code>&lt;server&gt;/output</code></li>
 <li><code>label_template_id</code>: Опциональный идентификатор шаблона этикетки (<code>Option&lt;i32&gt;</code>). При отсутствии используется <code>product.label_template</code></li>
@@ -23,14 +21,12 @@
 </ul>
 <h4 id="Тестовые-функции"><a class="doc-anchor" href="#Тестовые-функции">§</a>Тестовые функции</h4>
 <ul>
-<li>
-<p><code>GET /test/calc-sin</code></p>
+<li><h5 id="get-testcalc-sin"><a class="doc-anchor" href="#get-testcalc-sin">§</a><code>GET /test/calc-sin</code></h5>
 <ul>
 <li><code>count</code>: Количество вычислений синуса (<code>i32</code>)</li>
 </ul>
 </li>
-<li>
-<p><code>GET /test/calc-sin-thread</code></p>
+<li><h5 id="get-testcalc-sin-thread"><a class="doc-anchor" href="#get-testcalc-sin-thread">§</a><code>GET /test/calc-sin-thread</code></h5>
 <ul>
 <li><code>count</code>: Количество вычислений синуса в многопоточном режиме (<code>i32</code>)</li>
 </ul>

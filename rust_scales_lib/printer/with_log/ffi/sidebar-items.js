@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["draw_label_by_config","draw_label_default"]};
+window.SIDEBAR_ITEMS = {"fn":["draw_label","draw_label_by_config","draw_label_without_label_id"]};
