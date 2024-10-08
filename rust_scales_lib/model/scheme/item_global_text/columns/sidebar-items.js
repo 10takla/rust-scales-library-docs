@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["global_text","id","item_text","star"]};

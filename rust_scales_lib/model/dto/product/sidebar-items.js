@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BarcodePrefixType","ProductType"],"fn":["naive_date_to_timestamp"],"mod":["barcode_list","barcode_type","scheme","shelf_life"],"struct":["BarcodeStructure","Product","ProductDB"]};

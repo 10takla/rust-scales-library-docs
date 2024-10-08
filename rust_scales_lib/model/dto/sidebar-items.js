@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["category","label_template_short","lot_of_product","message","product","product_rate","shared"],"struct":["ProductsData"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["number","product_code","recognition_type","star"]};

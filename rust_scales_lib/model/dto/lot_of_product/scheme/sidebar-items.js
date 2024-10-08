@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["lot_of_product"]};

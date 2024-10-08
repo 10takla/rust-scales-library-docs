@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["id","manufacture_date","product_id","shelf_life_datetime","star"]};

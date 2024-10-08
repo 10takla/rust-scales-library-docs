@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["height","id","item","item_datamatrix","orientation","width"]};

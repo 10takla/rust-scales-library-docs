@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["id","identity_hash","room_master_table"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["draw_label_by_config","draw_label_default"]};

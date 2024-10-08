@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["get_sql","save_sql"],"struct":["SqlParams"]};

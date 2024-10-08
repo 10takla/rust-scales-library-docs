@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["label_item"],"struct":["LabelTemplate","LabelTemplateError","LabelTemplateQ"]};

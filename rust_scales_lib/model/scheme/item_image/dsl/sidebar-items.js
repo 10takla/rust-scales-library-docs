@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["image","item","item_image","orientation"]};

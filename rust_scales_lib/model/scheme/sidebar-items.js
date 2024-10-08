@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["android_metadata","font","font_style","global_text","group","item_barcode","item_datamatrix","item_global_text","item_graphic","item_image","item_special_text","item_text","label_image","label_item","log","marking","packer","pretrained","recognition_system","role","room_master_table","setting","user"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ItemType","LabelItemType","TextEnum"],"mod":["barcode","datamatrix","graphic","item_image","item_text","shared"],"struct":["ItemError","LabelItem","LabelItemQ"]};

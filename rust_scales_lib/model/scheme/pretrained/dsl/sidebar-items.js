@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["number","pretrained","product_code","recognition_type"]};

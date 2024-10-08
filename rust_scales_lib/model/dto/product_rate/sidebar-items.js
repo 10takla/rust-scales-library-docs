@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["scheme"],"struct":["ProductRate","ProductRateDto"]};

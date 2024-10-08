@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["id","recognition_system","type_"]};

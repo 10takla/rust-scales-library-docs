@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["create_image_with_hollow_rectangle_and_text","draw_hollow_rectangle","draw_text_on_image"]};

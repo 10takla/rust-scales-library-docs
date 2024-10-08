@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["font_style","id","item","orientation","star","text_align"]};

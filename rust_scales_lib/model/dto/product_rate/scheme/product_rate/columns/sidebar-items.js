@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["product_code","rate","star","start_date","update_date"]};

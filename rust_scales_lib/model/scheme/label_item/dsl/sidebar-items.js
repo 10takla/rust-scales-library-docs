@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["deleted","id","label_item","template","type_","x","y"]};

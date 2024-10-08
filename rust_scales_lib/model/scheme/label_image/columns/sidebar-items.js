@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["deleted","height","id","need_printing_rostest_code","number","source","star","width"]};
