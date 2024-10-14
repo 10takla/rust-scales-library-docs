@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["draw_label","draw_label_by_config"]};
+window.SIDEBAR_ITEMS = {"fn":["db_init","draw_label","draw_label_by_config"]};
