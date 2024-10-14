@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"struct":["Barcode","BarcodeQ"]};
+window.SIDEBAR_ITEMS = {"fn":["fast"],"struct":["Barcode","BarcodeQ"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["deserialize_with_try_from_str","deserialize_with_try_from_str_option"]};
+window.SIDEBAR_ITEMS = {"fn":["deser_with_try_from_opt_str","deserialize_with_try_from_str"]};
