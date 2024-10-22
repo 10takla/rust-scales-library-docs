@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["draw_label","draw_label_by_config","init"],"struct":["ConfigC"]};
+window.SIDEBAR_ITEMS = {"enum":["StatusCode"],"fn":["draw_label","draw_label_by_config","init"],"struct":["ConfigC"]};

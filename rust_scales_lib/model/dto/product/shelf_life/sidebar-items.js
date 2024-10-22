@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["LimitedShelfLIfe","ShelfLife"]};
+window.SIDEBAR_ITEMS = {"enum":["LimitedShelfLife","ShelfLife"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":["naive_date","option_naive_date"]};
+window.SIDEBAR_ITEMS = {"mod":["naive_date","option_naive_date"],"struct":["SerNaiveDateTime"]};
