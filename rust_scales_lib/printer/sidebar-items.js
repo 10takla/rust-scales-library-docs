@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["draw_all_labels"],"mod":["label","printable_data","with_log"]};
+window.SIDEBAR_ITEMS = {"fn":["draw_all_labels"],"mod":["ffi","label","printable_data","with_log"]};
