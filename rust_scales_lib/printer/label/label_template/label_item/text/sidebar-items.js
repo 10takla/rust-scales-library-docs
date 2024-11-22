@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Align","TextType"],"mod":["font_style","special_text"],"struct":["ItemTextQ","Text"]};

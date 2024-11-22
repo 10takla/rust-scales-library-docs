@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"struct":["BarcodeList"]};
+window.SIDEBAR_ITEMS = {"enum":["BarcodeCode","BarcodeDate","BarcodeItem","BarcodeString"],"struct":["BarcodeList"]};

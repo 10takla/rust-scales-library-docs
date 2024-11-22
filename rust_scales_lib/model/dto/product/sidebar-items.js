@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["BarcodePrefixType","ProductType"],"fn":["naive_date_to_timestamp"],"mod":["barcode_structure","scheme","shelf_life"],"struct":["Product","ProductDB"]};
+window.SIDEBAR_ITEMS = {"enum":["BarcodePrefix","ProductType"],"fn":["naive_date_to_timestamp"],"mod":["barcode_structure","scheme","shelf_life"],"struct":["Product","ProductDB"]};
