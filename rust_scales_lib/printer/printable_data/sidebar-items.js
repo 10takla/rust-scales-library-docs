@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":["interface","setting"],"struct":["PrintableData"]};
+window.SIDEBAR_ITEMS = {"mod":["interface","setting"],"struct":["Packer","PrintableData"]};

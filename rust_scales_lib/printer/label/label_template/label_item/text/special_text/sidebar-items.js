@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["Inscription","SpecialTextType"],"struct":["SpecialText","SpecialTextQ"]};
