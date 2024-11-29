@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":["category"]};
+window.SIDEBAR_ITEMS = {"mod":["category","tmp"]};
