@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["BarcodeType","CheckSum","SquareCode"],"mod":["barcode_list"]};
+window.SIDEBAR_ITEMS = {"enum":["BarcodeType","CheckSum","SquareCode","WithAi"],"mod":["barcode_list"]};

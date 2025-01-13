@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"fn":["deser_opt_barcode_struct"],"mod":["barcode_type"],"struct":["BarcodeStructure"]};
+window.SIDEBAR_ITEMS = {"fn":["deser_opt_barcode_struct"],"mod":["barcode_type"],"struct":["BarcodeStructure","Tmp"]};

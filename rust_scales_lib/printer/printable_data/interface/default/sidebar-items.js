@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["Currency"],"struct":["LastPrediction","MarkingCode","PredictionProtocolItemData","ProductData","ProductPredictionData"]};
+window.SIDEBAR_ITEMS = {"enum":["Currency"],"struct":["LastPrediction","MarkingCode","PredictionProtocolItemData","ProductData","ProductDataTmp","ProductPredictionData"]};

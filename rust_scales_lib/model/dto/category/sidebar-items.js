@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"mod":["scheme","tmp"],"struct":["Category"]};
+window.SIDEBAR_ITEMS = {"mod":["scheme"],"struct":["Category"]};

@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["DefaultOrTotal","LabelTypeData"],"mod":["cart_total_label","default","total"],"struct":["PrintableDataIR"]};
+window.SIDEBAR_ITEMS = {"enum":["DefaultOrTotalVar","PrintableDataVar"],"mod":["cart_total_label","default","total"],"struct":["DefaultOrTotal","DefaultS","PrintableDataIR"]};

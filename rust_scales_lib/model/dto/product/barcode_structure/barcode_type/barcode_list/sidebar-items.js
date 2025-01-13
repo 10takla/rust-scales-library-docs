@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["BarcodeCode","BarcodeDate","BarcodeItem","BarcodeString"],"struct":["BarcodeList"]};
+window.SIDEBAR_ITEMS = {"enum":["BarcodeCode","BarcodeDate","BarcodeItem","BarcodeString","DateFormat"],"fn":["checksum_from_mask","from_base_format"],"struct":["BarcodeList"]};
