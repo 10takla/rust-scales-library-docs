@@ -1,1 +1,1 @@
-window.SIDEBAR_ITEMS = {"enum":["StatusCode"],"fn":["draw_label","draw_label_by_config","init"],"struct":["ConfigC","FFIItemError","FFILabelTemplateError"]};
+window.SIDEBAR_ITEMS = {"enum":["BarcodeItemC","StatusCode"],"fn":["draw_barcode","draw_label","draw_label_by_config","init"],"struct":["BarcodeC","BarcodeListC","BarcodeStructureC","ConfigC","FFIItemError","FFILabelTemplateError"]};
